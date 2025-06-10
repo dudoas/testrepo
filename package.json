@@ -1,0 +1,13 @@
+    {
+      "name": "ilovepdf-test-script",
+      "version": "1.0.0",
+      "main": "test-ilovepdf-keys.js",
+      "scripts": {
+        "start": "node test-ilovepdf-keys.js"
+      },
+      "dependencies": {
+        "@ilovepdf/ilovepdf-nodejs": "^0.3.1",
+        "dotenv": "^16.4.5"
+      }
+    }
+    
